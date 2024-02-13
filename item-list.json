@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/starter%20kit.jpg",
+    "name": "AJAX STARTERKIT",
+    "description": "Ajax Hub<br>1 x Ajax MotionProtect (PET)<br>1 x Ajax DoorProtect<br>Ajax SpaceControl Τηλεχειριστήριο",
+    "price": 299.0
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/starter%20kit%20plus.jpg",
+    "name": "AJAX STARTERKIT PLUS ",
+    "description": "Ajax Hub<br>1 x Ajax MotionProtect (PET)<br>1 x Ajax DoorProtect<br>Ajax SpaceControl Τηλεχειριστήριο<br>Συνδεσιμότητα: Wi-Fi",
+    "price": 473.0
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/starter%20kit%20cam%20plus%20white.jpg",
+    "name": "AJAX STARTERKIT CAM PLUS ",
+    "description": "Control Hub<br>1 Συνδεσιμότητα: Wi-Fi & GSM<br> Τηλεχειριστήριο SpaceControl<br>1 Μαγνητική Επαφή DoorProtect<br>Αισθητήρας Κίνησης με Κάμερα",
+    "price": 616.0
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/rex%202%20white.jpg",
+    "name": "AJAX REX 2 ",
+    "description": "Αναμεταδότης Σήματος",
+    "price": 174.24
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/rex%202%20white.jpg",
+    "name": "AJAX REX",
+    "description": "Αναμεταδότης Σήματος",
+    "price": 124.44
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/%CF%83%CF%84%CF%81%CE%B5%CE%B5%CF%84%20%CF%83%CE%B9%CF%81%CE%B5%CE%BD.jpg",
+    "name": "AJAX STREET SIREN ",
+    "description": "Σειρήνα Εξωτερικού χώρου",
+    "price": 124.44
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/%CE%A3%CE%B5%CE%B9%CF%81%CE%B7%CE%BD%CE%B1%20%CE%B5%CF%83%20%CF%87%CF%89%CF%81%CE%BF%CF%85.jpg",
+    "name": "AJAX HOME SIREN ",
+    "description": "Σειρήνα Εσωτερικού χώρου",
+    "price": 62.15
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/%CF%80%CE%BB%CE%B7%CE%BA%CF%84%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BF.jpg",
+    "name": "AJAX KEYPAD ",
+    "description": "Πληκτρολόγιο",
+    "price": 99.58
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/%CE%B5%CF%80%CE%B1%CF%86%CE%B7.jpg",
+    "name": "AJAX DOOR PROTECT ",
+    "description": "Μαγνητική επαφή",
+    "price": 37.21
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/AJAX%20MOTION%20PROTECT%20WHITE.jpg",
+    "name": "AJAX MOTION PROTECT ",
+    "description": "Αισθητήρας κίνησης Εσωτερικού χώρου",
+    "price": 62.15
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/AJAX%20SPACE%20CONTROL.jpg",
+    "name": "AJAX SPACE CONTROL",
+    "description": "Χειριστήριο",
+    "price": 37.21
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/Ajax%20MultiTransmitter%20White.jpg",
+    "name": "AJAX MULTITRASMITTER ",
+    "description": "Ενσωμάτωση ενσύρματων περιφερειακών",
+    "price": 155.56
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/AJAX%20MOTIONCAM%20WHITE.jpg",
+    "name": "AJAX MOTIONCAM ",
+    "description": "Αισθητήρας κίνησης Εσωτερικού χώρου με κάμερα",
+    "price": 143.21
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/sim.jpg",
+    "name": "Global Sim",
+    "description": "Κάρτα Sim για επικοινωνία του συναγερμού- ετήσια συνδρομή  ",
+    "price": 60.0
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/personal-security-logo.png",
+    "name": "Κέντρο Λήψης Σημάτων",
+    "description": "Σύνδεση του συναγερμού με Κέντρο Λήψης Σημάτων - ετήσια συνδρομή - 131,30€",
+    "price": 0
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/work.jpg",
+    "name": "Εργασία",
+    "description": "1 ημέρα ",
+    "price": 250.0
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/work.jpg",
+    "name": "Εργασία",
+    "description": "1/2 ημέρα",
+    "price": 130.0
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://storage.googleapis.com/offer_app_db/work.jpg",
+    "name": "Εργασία",
+    "description": "Επίσκεψη(1η ώρα)",
+    "price": 60.0
+  }
+]
